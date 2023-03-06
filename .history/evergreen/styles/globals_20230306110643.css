@@ -1,0 +1,13 @@
+:root{
+  --primary-colour: #fff;
+  --secondary-colour: #2c2c2c;
+  --accent-colour: #469255;
+  
+  --primary-font: Kiak;
+  --secondary-font: helvetica;
+}
+
+*{
+  margin: 0;
+}
+
